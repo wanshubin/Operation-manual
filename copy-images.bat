@@ -1,0 +1,1 @@
+xcopy typora-user-images C:\Users\PC\AppData\Roaming\Typora\typora-user-images /i /s /h /y
